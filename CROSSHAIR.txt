@@ -1,0 +1,21 @@
+Crosshair Color: Green
+Outlines: Off
+Outline Opacity: 0.5
+Outline Thickness: 1
+Center Dot: Off
+Center Dot Opacity: 1
+Center Dot Thickness: 1
+Fade Crosshair With Firing Error: Off
+Show Spectated Player's Crosshair: On
+Inner Line Opacity: 1
+Inner Line Lenght: 3
+Inner Line Thickness: 1
+Inner Line Offset: 1
+Movement Error: Off
+Firing Error: Off
+Outer Line Opacity: 0
+Outer Line Length: 0
+Outer Line Thickness: 0
+Outer Line Offset: 0
+Movement Error: Off
+Firing Error: Off

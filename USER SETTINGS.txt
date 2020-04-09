@@ -1,0 +1,13 @@
+[Settings]
+LocalSettingsVersion=5
+EAresBoolSettingName::DisableDistortion=True
+EAresFloatSettingName::MaxFramerateOnBattery=144.000000
+EAresFloatSettingName::MaxFramerateInBackground=144.000000
+EAresFloatSettingName::MaxFramerateAlways=144.000000
+EAresBoolSettingName::VignetteEnabled=False
+EAresStringSettingName::VoiceDeviceCaptureHandle="{c27aa5ad-a606-4c73-bf38-9105e38cafad}"
+EAresIntSettingName::UIQuality=0
+EAresIntSettingName::AntiAliasing=0
+EAresIntSettingName::AnisotropicFiltering=16
+EAresStringSettingName::VoiceDeviceRenderHandle="{f4994a5b-ae28-4ff5-8d44-f8e06fd6bde0}"
+EAresBoolSettingName::LimitFramerateAlways=True
