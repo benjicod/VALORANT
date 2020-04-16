@@ -1,4 +1,4 @@
-Crosshair Color: Yellow Green
+Crosshair Color: Green
 Outlines: On
 Outline Opacity: 1
 Outline Thickness: 1
