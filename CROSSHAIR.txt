@@ -8,7 +8,7 @@ Center Dot Thickness: 2
 Fade Crosshair With Firing Error: Off
 Show Spectated Player's Crosshair: On
 Inner Line Opacity: 1
-Inner Line Lenght: 8
+Inner Line Lenght: 11
 Inner Line Thickness: 2
 Inner Line Offset: 4
 Movement Error: Off
