@@ -14,3 +14,4 @@ EAresIntSettingName::DetailQuality=0
 EAresBoolSettingName::LimitFramerateInMenu=False
 EAresBoolSettingName::LimitFramerateOnBattery=False
 EAresBoolSettingName::LimitFramerateInBackground=False
+
