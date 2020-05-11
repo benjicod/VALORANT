@@ -1,8 +1,8 @@
 [/Script/ShooterGame.ShooterGameUserSettings]
-DefaultMonitorDeviceID="MONITOR\\BNQ7F33\\{4d36e96e-e325-11ce-bfc1-08002be10318}\\0001"
-DefaultMonitorIndex=0
-LastConfirmedDefaultMonitorDeviceID="MONITOR\\BNQ7F33\\{4d36e96e-e325-11ce-bfc1-08002be10318}\\0001"
-LastConfirmedDefaultMonitorIndex=0
+DefaultMonitorDeviceID=
+DefaultMonitorIndex=-1
+LastConfirmedDefaultMonitorDeviceID=
+LastConfirmedDefaultMonitorIndex=-1
 bShouldLetterbox=True
 bLastConfirmedShouldLetterbox=True
 bUseVSync=False
